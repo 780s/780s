@@ -7,8 +7,7 @@
 *I build things I find interesting.*
 
 Most of what I make lives somewhere between *"this probably already exists"* and *"I'm going to build it anyway."*
-I care about performance, clean code, and software that actually works the way it's supposed to.
-No social media. If something I built ended up useful to you, *that's enough.*
+I care about performance, clean code, and software that actually works the way it's supposed to. If something I built ended up useful to you, *that's enough.*
 
 ---
 
