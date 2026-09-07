@@ -15,7 +15,7 @@ No social media. If something I built ended up useful to you, *that's enough.*
 ## Now
 
 *Working on projects at the intersection of web, tooling, and things I can't explain without a whiteboard.*
-Always open to interesting problems — open an [issue](https://github.com/780/780/issues/new) if you want to talk.
+Always open to interesting problems — open an [issue](https://github.com/780s/780s/issues/new) if you want to talk.
 
 ---
 
