@@ -1,51 +1,56 @@
-<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <linearGradient id="fade" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%"   stop-color="#0d1117" stop-opacity="1"/>
-      <stop offset="15%"  stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="85%"  stop-color="#0d1117" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#0d1117" stop-opacity="1"/>
-    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
   </defs>
 
   <!-- Background -->
-  <rect width="800" height="160" fill="#0d1117"/>
+  <rect width="800" height="140" fill="#0d1117"/>
 
-  <!-- Thin center line that expands outward -->
-  <line x1="400" y1="80" x2="400" y2="80" stroke="#30363d" stroke-width="1">
-    <animate attributeName="x1" values="400;100" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    <animate attributeName="x2" values="400;700" dur="1.2s" begin="0.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-  </line>
-
-  <!-- Fade edges of the line -->
-  <rect width="800" height="160" fill="url(#fade)"/>
-
-  <!-- "780" — fades in after line draws -->
-  <text
-    x="400" y="72"
-    text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-    font-size="52"
-    font-weight="300"
-    letter-spacing="18"
-    fill="white"
-    opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.8s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    780
+  <!-- Letter: 7 -->
+  <text x="258" y="90" text-anchor="middle"
+    font-family="'Arial Black', 'Impact', sans-serif"
+    font-size="78" font-weight="900"
+    fill="#ff6b6b" filter="url(#shadow)">7
+    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
   </text>
 
-  <!-- Subtitle — fades in last -->
-  <text
-    x="400" y="108"
-    text-anchor="middle"
-    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
-    font-size="11"
-    font-weight="400"
-    letter-spacing="4"
-    fill="#6e7681"
-    opacity="0">
-    <animate attributeName="opacity" values="0;1" dur="0.8s" begin="1.2s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
-    BUILDING THINGS I FIND INTERESTING
+  <!-- Letter: 8 -->
+  <text x="330" y="90" text-anchor="middle"
+    font-family="'Arial Black', 'Impact', sans-serif"
+    font-size="78" font-weight="900"
+    fill="#ffd93d" filter="url(#shadow)">8
+    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0.2s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0.2s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+  </text>
+
+  <!-- Letter: 0 -->
+  <text x="404" y="90" text-anchor="middle"
+    font-family="'Arial Black', 'Impact', sans-serif"
+    font-size="78" font-weight="900"
+    fill="#6bcb77" filter="url(#shadow)">0
+    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0.4s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0.4s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+  </text>
+
+  <!-- Letter: s -->
+  <text x="466" y="90" text-anchor="middle"
+    font-family="'Arial Black', 'Impact', sans-serif"
+    font-size="78" font-weight="900"
+    fill="#4d96ff" filter="url(#shadow)">s
+    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0.6s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0.6s" repeatCount="indefinite"
+      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
   </text>
 
 </svg>
