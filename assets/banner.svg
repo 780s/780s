@@ -1,56 +1,41 @@
-<svg width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+<svg width="800" height="160" viewBox="0 0 800 160" xmlns="http://www.w3.org/2000/svg">
 
-  <defs>
-    <filter id="shadow" x="-10%" y="-10%" width="120%" height="140%">
-      <feDropShadow dx="0" dy="4" stdDeviation="3" flood-color="#000" flood-opacity="0.3"/>
-    </filter>
-  </defs>
+  <rect width="800" height="160" fill="#0d1117"/>
 
-  <!-- Background -->
-  <rect width="800" height="140" fill="#0d1117"/>
-
-  <!-- Letter: 7 -->
-  <text x="258" y="90" text-anchor="middle"
-    font-family="'Arial Black', 'Impact', sans-serif"
-    font-size="78" font-weight="900"
-    fill="#ff6b6b" filter="url(#shadow)">7
-    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
-    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+  <!-- "7" -->
+  <text x="268" y="112"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="108" font-weight="900" letter-spacing="-2"
+    fill="white" opacity="0">
+    <animate attributeName="opacity" values="0;1"    dur="0.3s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="y"       values="124;112" dur="0.3s" begin="0.0s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    7
   </text>
 
-  <!-- Letter: 8 -->
-  <text x="330" y="90" text-anchor="middle"
-    font-family="'Arial Black', 'Impact', sans-serif"
-    font-size="78" font-weight="900"
-    fill="#ffd93d" filter="url(#shadow)">8
-    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0.2s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
-    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0.2s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+  <!-- "8" -->
+  <text x="368" y="112"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="108" font-weight="900" letter-spacing="-2"
+    fill="white" opacity="0">
+    <animate attributeName="opacity" values="0;1"    dur="0.3s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="y"       values="124;112" dur="0.3s" begin="0.12s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    8
   </text>
 
-  <!-- Letter: 0 -->
-  <text x="404" y="90" text-anchor="middle"
-    font-family="'Arial Black', 'Impact', sans-serif"
-    font-size="78" font-weight="900"
-    fill="#6bcb77" filter="url(#shadow)">0
-    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0.4s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
-    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0.4s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
+  <!-- "0" -->
+  <text x="468" y="112"
+    font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif"
+    font-size="108" font-weight="900" letter-spacing="-2"
+    fill="white" opacity="0">
+    <animate attributeName="opacity" values="0;1"    dur="0.3s" begin="0.24s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    <animate attributeName="y"       values="124;112" dur="0.3s" begin="0.24s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+    0
   </text>
 
-  <!-- Letter: s -->
-  <text x="466" y="90" text-anchor="middle"
-    font-family="'Arial Black', 'Impact', sans-serif"
-    font-size="78" font-weight="900"
-    fill="#4d96ff" filter="url(#shadow)">s
-    <animate attributeName="y" values="90;74;90;96;90" dur="1.6s" begin="0.6s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
-    <animate attributeName="font-size" values="78;82;78;76;78" dur="1.6s" begin="0.6s" repeatCount="indefinite"
-      calcMode="spline" keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"/>
-  </text>
+  <!-- Underline draws itself after digits settle -->
+  <line x1="268" y1="126" x2="268" y2="126" stroke="white" stroke-width="1.5" opacity="0">
+    <animate attributeName="opacity" values="0;1"   dur="0.1s"  begin="0.5s" fill="freeze"/>
+    <animate attributeName="x2"      values="268;568" dur="0.5s" begin="0.5s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1"/>
+  </line>
 
 </svg>
