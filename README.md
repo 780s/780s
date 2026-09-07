@@ -24,22 +24,22 @@ Always open to interesting problems — open an [issue](https://github.com/780/7
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/780"><b>Project One</b></a><br />
-      <sub><em>A short description of what it does and why it matters.</em></sub>
+      <a href="https://github.com/780"><b>Panex</b></a><br />
+      <sub><em>Panex is an upcoming release as a new AI code editor.</em></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/780"><b>Project Two</b></a><br />
-      <sub><em>A short description of what it does and why it matters.</em></sub>
+      <a href="https://github.com/780"><b>???</b></a><br />
+      <sub><em>???</em></sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/780"><b>Project Three</b></a><br />
-      <sub><em>A short description of what it does and why it matters.</em></sub>
+      <a href="https://github.com/780"><b>???</b></a><br />
+      <sub><em>???</em></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/780"><b>Project Four</b></a><br />
-      <sub><em>A short description of what it does and why it matters.</em></sub>
+      <a href="https://github.com/780"><b>???</b></a><br />
+      <sub><em>???</em></sub>
     </td>
   </tr>
 </table>
