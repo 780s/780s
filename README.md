@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" alt="780" width="100%" />
+  <img src="https://raw.githubusercontent.com/780/780/main/assets/banner.svg" alt="780" width="100%" />
 </div>
 
 <br />
@@ -15,7 +15,7 @@ No social media. If something I built ended up useful to you, *that's enough.*
 ## Now
 
 *Working on projects at the intersection of web, tooling, and things I can't explain without a whiteboard.*
-Always open to interesting problems — open an [issue](https://github.com/780s/780s/issues/new) if you want to talk.
+Always open to interesting problems — open an [issue](https://github.com/780/780/issues/new) if you want to talk.
 
 ---
 
