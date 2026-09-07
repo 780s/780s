@@ -14,7 +14,7 @@ I care about performance, clean code, and software that actually works the way i
 ## Now
 
 *Working on projects at the intersection of web, tooling, and things I can't explain without a whiteboard.*
-Always open to interesting problems — open an [issue](https://github.com/780/780/issues/new) if you want to talk.
+Always open to interesting problems — open an [issue](https://github.com/780s/780s/issues/new) if you want to talk.
 
 ---
 
