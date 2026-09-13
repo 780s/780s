@@ -28,7 +28,7 @@ Always open to interesting problems, open an [issue](https://github.com/780s/780
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/780s"><b>???</b></a><br />
-      <sub><em>???</em></sub>
+      <sub><em>Chrome extension</em></sub>
     </td>
   </tr>
   <tr>
