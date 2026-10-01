@@ -6,15 +6,10 @@
 
 *I build things I find interesting.*
 
-Most of what I make lives somewhere between *"this probably already exists"* and *"I'm going to build it anyway."*
-I care about performance, clean code, and software that actually works the way it's supposed to. If something I built ended up useful to you, *that's enough.*
-
----
-
 ## Now
 
-*Working on projects at the intersection of web, tooling, and things I can't explain without a whiteboard.*
-Always open to interesting problems, open an [issue](https://github.com/780s/780s/issues/new) if you want to talk.
+*working on cool projects*
+always open to interesting problems, open an [issue](https://github.com/780s/780s/issues/new) if you want to talk.
 
 ---
 
